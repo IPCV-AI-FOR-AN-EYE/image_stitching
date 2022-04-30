@@ -8,8 +8,9 @@ Output: We get 2 images :
 2) finalimage.jpg = being the final panorama image 
 
 How to execute our project:
-Step1- Clone this repository
-Step2- Add the relevant paths to the images and in the correct order in stitch.py
-Step3- run the stitch file= python3 stitch.py
+
+1) Clone this repository
+2) Add the relevant paths to the images and in the correct order in stitch.py
+3) Run the stitch file= python3 stitch.py
 
 
